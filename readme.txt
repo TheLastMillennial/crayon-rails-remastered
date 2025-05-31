@@ -15,4 +15,4 @@ I have vectorized the loads so the can be scaled to any size. The 'woods' load k
 These were the most time consuming, requiring days of manual adjustments. I might repair some of the damaged load icons later but they're legible enough it's not a priority. I've included the original card back as well as a custom one I made from scratch.
 
 ### Guides:
-For now this is just contains a reference guide that shows which cities carry a specific load. I made this from scratch and I regret it because when I was nearly done, Word started crashing every 5 minutes.
+A few reference guides I re-created from scratch. They show which cities carry a specific load. the-loads was a pain to make because just as I was finishing, Word started crashing every time I modified the table.
